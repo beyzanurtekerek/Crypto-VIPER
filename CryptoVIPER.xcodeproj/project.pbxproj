@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		D8FDFB3A2CA82BDE000AF535 /* CryptoVIPER.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CryptoVIPER.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D8FDFB5D2CA8302A000AF535 /* CryptoVIPER.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = CryptoVIPER.app; path = "/Users/beyzanurtekerek/Desktop/Projects/CryptoVIPER/build/Debug-iphoneos/CryptoVIPER.app"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -28,6 +28,7 @@
 			);
 			path = CryptoVIPER;
 			sourceTree = "<group>";
+			tabWidth = 4;
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
@@ -46,16 +47,7 @@
 			isa = PBXGroup;
 			children = (
 				D8FDFB3C2CA82BDE000AF535 /* CryptoVIPER */,
-				D8FDFB3B2CA82BDE000AF535 /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		D8FDFB3B2CA82BDE000AF535 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				D8FDFB3A2CA82BDE000AF535 /* CryptoVIPER.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -80,7 +72,7 @@
 			packageProductDependencies = (
 			);
 			productName = CryptoVIPER;
-			productReference = D8FDFB3A2CA82BDE000AF535 /* CryptoVIPER.app */;
+			productReference = D8FDFB5D2CA8302A000AF535 /* CryptoVIPER.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -108,7 +100,7 @@
 			mainGroup = D8FDFB312CA82BDE000AF535;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = D8FDFB3B2CA82BDE000AF535 /* Products */;
+			productRefGroup = D8FDFB312CA82BDE000AF535;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -150,7 +142,6 @@
 				INFOPLIST_FILE = CryptoVIPER/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -178,7 +169,6 @@
 				INFOPLIST_FILE = CryptoVIPER/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
